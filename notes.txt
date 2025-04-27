@@ -1,0 +1,8 @@
+3 topics:
+
+raw-questions
+views
+views_avg
+
+SELECT AVG(view_count) AS average_views FROM Avg_Views;
+
